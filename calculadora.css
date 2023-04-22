@@ -1,0 +1,108 @@
+body{
+    background: linear-gradient(to left, #81c9fa, #1465bb); 
+
+}
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+    background-color:#4B2D9F;
+    width:340px;
+    height:526px;
+    border-radius: 30px;
+
+}
+.calculadora td button{
+    display:block;
+    width:70px;
+    height: 70px;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: #0c0c0cbc 1px 1px 2px;  
+    border-radius: 30px;
+}
+#siete{
+    /* background: conic-gradient(#FE00EC 33%, #02C9AF 33%, #049CE4 34%); */
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#ocho{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#nueve{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#division{
+    background-color: #8ab446;
+}
+#cuatro{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#cinco{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#seis{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#uno{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#dos{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}#tres{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#multiplicacion{
+    background-color: #8ab446;
+}
+#resta{
+    background-color: #8ab446;
+}
+#reset{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#cero{
+    background: radial-gradient(at 0% 30%, #7cdaf9 10px, #40cfff 20%, #1d63f5 60%);
+}
+#suma{
+    background-color: #DC4B48;
+    width:150px;
+}
+#igual{
+    background-color: #9E9B98; 
+    color:#fff;
+    text-shadow: #15100A 0px 1px 0px;
+    width:300px;
+    margin-top: 10px;
+}
+#memoria{
+    display:block;
+    text-align: center;
+    font-size: 30px;
+    color:#000000;
+    width:300px;
+    height:35px;
+    font-family: 'Digital-7', sans-serif;
+   
+    border-radius: 15px 15px 0px 0px;
+    background: linear-gradient(70deg, rgba(165, 251, 125, 0.684), rgba(161, 251, 125, 0.655));
+    
+}
+#resultado{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    color:#000000;
+    margin-bottom:18px;
+    width:300px;
+    height: 50px;
+   
+   
+    font-family: 'Digital-7', sans-serif;
+   
+    border-radius: 0px 0px 15px 15px;
+
+
+
+    background: linear-gradient(70deg, rgba(165, 251, 125, 0.684), rgba(161, 251, 125, 0.655));
+   
+}
